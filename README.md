@@ -3,4 +3,7 @@ A curated list of papers and resources about the distribution shift in machine l
 
 An example of distribution shift in images across domains from [DomainBed](https://github.com/facebookresearch/DomainBed).
 
+![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/example.png)
+
+
 
