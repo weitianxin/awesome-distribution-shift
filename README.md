@@ -22,15 +22,17 @@ I categorize the papers on distribution shift as follows. If you found any error
 
 ## Modality
 Above papers study the distribution shift on images. There are also many applications to other data modalities.
-### Applications to Language
+### Language
 
-### Applications to Graph
+### Graph
 
-### Applications to Time Series
+### Time Series
 
-### Applications to Tabular Data
+### Tabular Data
 
-### Applications to Video/Speech
+### Video
+
+### Speech
 
 ## Decentralized
 
@@ -40,6 +42,8 @@ Besides generalization, detection, fairness and robustness are also studied.
 ## Fairness
 
 ## Robustness
+
+## Learning Strategy
 
 
 
