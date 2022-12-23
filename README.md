@@ -5,6 +5,8 @@ An example of distribution shift in images across domains from [DomainBed](https
 
 ![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/example.png)
 
+I categorize the papers on distribution shift as follows. If you found any error or any missed paper, please don't hesitate to add.
+
 ## Benchmark
 
 ## Generalization
@@ -18,7 +20,7 @@ An example of distribution shift in images across domains from [DomainBed](https
 
 ### Test-time Adaptation
 
-
+## Modality
 Above papers study the distribution shift on images. There are also many applications to other data modalities.
 ### Applications to Language
 
@@ -29,6 +31,8 @@ Above papers study the distribution shift on images. There are also many applica
 ### Applications to Tabular Data
 
 ### Applications to Video/Speech
+
+## Decentralized
 
 Besides generalization, detection, fairness and robustness are also studied.
 ## Detection
