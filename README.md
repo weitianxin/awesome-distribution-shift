@@ -28,7 +28,7 @@ I categorize the papers on distribution shift as follows. If you found any error
 
 [ECCV 2022] **OOD-CV: A Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images** [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680158.pdf)
 
-
+[arxiv 2022] **DrugOOD: OOD Dataset Curator and Benchmark for AI Aided Drug Discovery** [[paper]](https://arxiv.org/abs/2201.09637) [[code]](https://github.com/tencent-ailab/DrugOOD)
 
 
 
