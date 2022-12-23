@@ -22,17 +22,17 @@ I categorize the papers on distribution shift as follows. If you found any error
 
 ## Modality
 Above papers study the distribution shift on images. There are also many applications to other data modalities.
-### Language
-
 ### Graph
 
-### Time Series
+### Text
 
-### Tabular Data
+### Time Series
 
 ### Video
 
 ### Speech
+
+### Tabular Data
 
 ## Decentralized
 
