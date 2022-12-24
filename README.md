@@ -50,63 +50,154 @@ There are mainly two types of distribution shift: domain shift (testing on unsee
 ![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/dis%20shift.png)
 **Domain Generalization** mainly studies **domain shift**, while **Out-of-distribution Robustness** studies **both** of them. These two research directions are very related and share a lot in common.
 
+#### Out-of-distribution Robustness
+Invariant Risk Minimization
+
+Distributionally Robust Neural Networks for Group Shifts: on the Importance of Regularization for Worst-Case Generalization
+
+Out-of-Distribution Generalization Via Risk Extrapolation (REx)
+
+Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization
+
+In-N-Out: Pre-Training and Self-Training Using Auxiliary Information for Out-of-Distribution Robustness
+
+Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and in-Distribution Generalization
+
+Improving Out-of-Distribution Robustness Via Selective Augmentation
+
+Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization
+
+Diverse Weight Averaging for Out-of-Distribution Generalization
+
+##### w/o group label
+Just Train Twice: Improving Group Robustness Without Training Group Information
+
+Model Agnostic Sample Reweighting for Out-of-Distribution Learning
+
+Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations
+
 #### Domain Generalization
 Learning to Generalize: Meta-Learning for Domain Generalization
+
 Domain Generalization With Adversarial Feature Learning
-Deep Domain Generalization via Conditional Invariant Adversarial Networks
+
+Deep Domain Generalization Via Conditional Invariant Adversarial Networks
+
 MetaReg: Towards Domain Generalization Using Meta-Regularization
 
-Domain Generalization via Entropy Regularization
+Domain Generalization Via Entropy Regularization
+
 Learning to Optimize Domain Specific Normalization for Domain Generalization
+
 Learning From Extrinsic and Intrinsic Supervisions for Domain Generalization
+
 Learning to Balance Specificity and Invariance for in and Out of Domain Generalization
+
 Learning to Learn Single Domain Generalization
+
 Domain Generalization With Optimal Transport and Metric Learning
+
 Learning to Generate Novel Domains for Domain Generalization
 
 Self-Challenging Improves Cross-Domain Generalization
+
 Domain Generalization By Marginal Transfer Learning
+
 Swad: Domain Generalization By Seeking Flat Minima
+
 Selfreg: Self-Supervised Contrastive Regularization for Domain Generalization
+
 A Simple Feature Augmentation for Domain Generalization
 
 Gradient Matching for Domain Generalization
+
 PCL: Proxy-Based Contrastive Learning for Domain Generalization
+
 Compound Domain Generalization Via Meta-Knowledge Encoding
+
 Domain Generalization By Mutual-Information Regularization With Pre-Trained Models
+
 Dna: Domain Generalization With Diversified Neural Averaging
-Domain Generalization without Excess Empirical Risk
+
+Domain Generalization Without Excess Empirical Risk
 
 Towards Unsupervised Domain Generalization
+
 Unsupervised Domain Generalization By Learning a Bridge Across Domains
 
-#### Out-of-distribution Robustness
-Invariant risk minimization
-
-Distributionally robust neural networks for group shifts: on the importance of regularization for worst-case generalization
-Out-of-Distribution Generalization via Risk Extrapolation (REx)
-
-Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization
-In-N-Out: pre-training and self-training using auxiliary information for out-of-distribution robustness
-Accuracy on the line: on the strong correlation between out-of-distribution and in-distribution generalization
-
-Improving Out-of-Distribution Robustness via Selective Augmentation
-Fishr: Invariant Gradient Variances for Out-of-distribution Generalization
-Diverse Weight Averaging for Out-of-Distribution Generalization
-
-Just Train Twice: Improving Group Robustness without Training Group Information
-Model agnostic sample reweighting for out-of-distribution learning
-Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations
-
-
 ### Domain Adaptation
+Unsupervised domain adaptation by backpropagation
+
+Domain-Adversarial Training of Neural Networks
+
+Correlation Alignment for Unsupervised Domain Adaptation
+
+Unsupervised domain adaptation with residual transfer networks
+
+Learning transferrable representations for unsupervised domain adaptation
+
+Return of frustratingly easy domain adaptation
+
+Adversarial discriminative domain adaptation
+
+Balanced distribution adaptation for transfer learning
+
+Multi-adversarial domain adaptation
+
+Universal domain adaptation
+
+Contrastive adaptation network for unsupervised domain adaptation
+
+On learning invariant representations for domain adaptation
+
+Visual domain adaptation with manifold embedded distribution alignment
+
+Reliable weighted optimal transport for unsupervised domain adaptation
+
+Universal source-free domain adaptation
+
+Dacs: Domain adaptation via cross-domain mixed sampling
+
+Dynamic weighted learning for unsupervised domain adaptation
+
+Generalized source-free domain adaptation
+
+Adaptive adversarial network for source-free domain adaptation
+
 Connect, not collapse: explaining contrastive learning for unsupervised domain adaptation
 
-### Test-time Adaptation
+### Test-time Adaptation/Training
+Tent: Fully test-time adaptation by entropy minimization
+
+Test-time training with self-supervision for generalization under distribution shifts
+
+Mt3: Meta test-time training for self-supervised test-time adaption
+
+Contrastive Test-Time Adaptation
+
+Test-time unsupervised domain adaptation
+
+Test-time adaptation to distribution shift by confidence maximization and input transformation
+
+Parameter-free Online Test-time Adaptation
+
+Test-Time Adaptation via Conjugate Pseudo-labels
+
+Efficient Test-Time Model Adaptation without Forgetting
+
+TTT++: When Does Self-supervised Test-time Training Fail or Thrive?
+
+Test-time training with masked autoencoders
 
 
 ## Modality
-Above papers study the distribution shift on images. There are also many applications to other data modalities.
+
+
+
+
+
+
+the distribution shift on images. There are also many applications to other data modalities.
 ### Graph
 
 ### Text
