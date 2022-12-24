@@ -16,6 +16,8 @@ I categorize the papers on distribution shift as follows. If you found any error
 
 [NeurIPS 2021] **Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks** [[paper]](https://openreview.net/pdf?id=qM45LHaWM6E) [[code]](https://github.com/Shifts-Project/shifts)
 
+[ICLR 2022] **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts** [[paper]](https://openreview.net/pdf?id=MTex8qKavoS) [[code]](https://metashift.readthedocs.io/en/latest/)
+
 [NeurIPS 2022] **GOOD: A Graph Out-of-Distribution Benchmark** [[paper]](https://arxiv.org/abs/2206.08452) [[code]](https://github.com/divelab/GOOD)
 
 [NeurIPS 2022] **BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs** [[paper]](https://arxiv.org/abs/2206.10071) [[code]](https://github.com/pygod-team/pygod/tree/main/benchmark)
