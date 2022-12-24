@@ -11,11 +11,11 @@ I categorize the papers on distribution shift as follows. If you found any error
 Continuously updated
 
 ## Benchmark
-[ICLR 2021] **In Search of Lost Domain Generalization** [[paper]](https://arxiv.org/abs/2007.01434) [[code (DomainBed)]](https://github.com/facebookresearch/DomainBed)
+- [ICLR 2021] **In Search of Lost Domain Generalization** [[paper]](https://arxiv.org/abs/2007.01434) [[code (DomainBed)]](https://github.com/facebookresearch/DomainBed)
 
-[ICLR 2021] **BREEDS: Benchmarks for Subpopulation Shift** [[paper]](https://arxiv.org/abs/2008.04859) [[code]](https://github.com/MadryLab/BREEDS-Benchmarks)
+- [ICLR 2021] **BREEDS: Benchmarks for Subpopulation Shift** [[paper]](https://arxiv.org/abs/2008.04859) [[code]](https://github.com/MadryLab/BREEDS-Benchmarks)
 
-[ICML 2021] **WILDS: A Benchmark of in-the-Wild Distribution Shifts** [[paper]](https://arxiv.org/abs/2012.07421) [[code]](https://github.com/p-lambda/wilds)
+- [ICML 2021] **WILDS: A Benchmark of in-the-Wild Distribution Shifts** [[paper]](https://arxiv.org/abs/2012.07421) [[code]](https://github.com/p-lambda/wilds)
 
 [NeurIPS 2021] **Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks** [[paper]](https://openreview.net/pdf?id=qM45LHaWM6E) [[code]](https://github.com/Shifts-Project/shifts)
 
