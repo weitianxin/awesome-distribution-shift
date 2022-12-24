@@ -26,6 +26,10 @@ I categorize the papers on distribution shift as follows. If you found any error
 
 [NeurIPS 2022] **AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection** [[paper]](https://arxiv.org/abs/2206.15476) [[code]](https://github.com/bit-ml/anoshift)
 
+[CVPR 2022] **OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization** [[paper]](https://arxiv.org/abs/2106.03721) [[code]](https://github.com/m-Just/OoD-Bench)
+
+[CVPR 2022] **The Auto Arborist Dataset: A Large-Scale Benchmark for Multiview Urban Forest Monitoring Under Domain Shift** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Beery_The_Auto_Arborist_Dataset_A_Large-Scale_Benchmark_for_Multiview_Urban_CVPR_2022_paper.pdf) [[code]](https://google.github.io/auto-arborist/)
+
 [ECCV 2022] **OOD-CV: A Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images** [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680158.pdf)
 
 [arxiv 2022] **DrugOOD: OOD Dataset Curator and Benchmark for AI Aided Drug Discovery** [[paper]](https://arxiv.org/abs/2201.09637) [[code]](https://github.com/tencent-ailab/DrugOOD)
