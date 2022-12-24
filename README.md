@@ -1,4 +1,5 @@
-# awesome-distribution-shift  ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Awesome](https://awesome.re/badge.svg)
+# awesome-distribution-shift  
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Awesome](https://awesome.re/badge.svg)
 A curated list of papers and resources about the distribution shift in machine learning. I categorize them based on their topic and content. I will try to make this list updated.
 
 An example of distribution shift in images across domains from [DomainBed](https://github.com/facebookresearch/DomainBed).
@@ -6,6 +7,8 @@ An example of distribution shift in images across domains from [DomainBed](https
 ![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/example.png)
 
 I categorize the papers on distribution shift as follows. If you found any error or any missed paper, please don't hesitate to add.
+
+To be updated.
 
 ## Benchmark
 [ICLR 2021] **In Search of Lost Domain Generalization** [[paper]](https://arxiv.org/abs/2007.01434) [[code (DomainBed)]](https://github.com/facebookresearch/DomainBed)
