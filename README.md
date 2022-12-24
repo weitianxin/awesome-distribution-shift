@@ -8,7 +8,7 @@ An example of distribution shift in images across domains from [DomainBed](https
 I categorize the papers on distribution shift as follows. If you found any error or any missed paper, please don't hesitate to add.
 
 ## Benchmark
-[ICLR 2021 DomainBed] **In Search of Lost Domain Generalization** [[paper]](https://arxiv.org/abs/2007.01434) [[code]](https://github.com/facebookresearch/DomainBed)
+[ICLR 2021] **In Search of Lost Domain Generalization** [[paper]](https://arxiv.org/abs/2007.01434) [[code]](https://github.com/facebookresearch/DomainBed)
 
 [ICLR 2021] **BREEDS: Benchmarks for Subpopulation Shift** [[paper]](https://arxiv.org/abs/2008.04859) [[code]](https://github.com/MadryLab/BREEDS-Benchmarks)
 
