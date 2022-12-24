@@ -48,7 +48,8 @@ Continuously updated
 ### Domain Generalization & Out-of-distribution Robustness
 There are mainly two types of distribution shift: domain shift (testing on unseen domains) and subpopulation shift (the domains of testing data are seen but underrepresented in the training data). Below figure from [GOOD](https://github.com/divelab/GOOD) well demonstrates them.
 ![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/dis%20shift.png)
-Domain generalization mainly studies domain shift, while out-of-distribution robustness studies both of them.
+**Domain Generalization** mainly studies **domain shift**, while **Out-of-distribution Robustness** studies **both** of them.
+
 
 
 ### Domain Adaptation
