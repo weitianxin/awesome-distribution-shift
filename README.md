@@ -1,5 +1,4 @@
-# awesome-distribution-shift  
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Awesome](https://awesome.re/badge.svg)
+# awesome-distribution-shift ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Awesome](https://awesome.re/badge.svg)
 
 A curated list of papers and resources about the distribution shift in machine learning. I categorize them based on their topic and content. I will try to make this list updated.
 
@@ -9,7 +8,7 @@ An example of distribution shift in images across domains from [DomainBed](https
 
 I categorize the papers on distribution shift as follows. If you found any error or any missed paper, please don't hesitate to add.
 
-To be updated.
+Continuously updated
 
 ## Benchmark
 [ICLR 2021] **In Search of Lost Domain Generalization** [[paper]](https://arxiv.org/abs/2007.01434) [[code (DomainBed)]](https://github.com/facebookresearch/DomainBed)
@@ -47,7 +46,9 @@ To be updated.
 ## Generalization
 
 ### Domain Generalization & Out-of-distribution Robustness
+There are mainly two types of distribution shift: domain shift (testing on unseen domains) and subpopulation shift (the domains of testing data are seen but underrepresented in the training data). Below figure from [GOOD](https://github.com/divelab/GOOD) well demonstrates them.
 ![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/dis%20shift.png)
+Domain generalization mainly studies domain shift, while out-of-distribution robustness studies both of them.
 
 
 ### Domain Adaptation
