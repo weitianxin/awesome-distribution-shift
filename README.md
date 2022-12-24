@@ -48,7 +48,7 @@ Continuously updated
 ### Domain Generalization & Out-of-distribution Robustness
 There are mainly two types of distribution shift: domain shift (testing on unseen domains) and subpopulation shift (the domains of testing data are seen but underrepresented in the training data). Below figure from [GOOD](https://github.com/divelab/GOOD) well demonstrates them.
 ![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/dis%20shift.png)
-**Domain Generalization** mainly studies **domain shift**, while **Out-of-distribution Robustness** studies **both** of them.
+**Domain Generalization** mainly studies **domain shift**, while **Out-of-distribution Robustness** studies **both** of them. These two research directions are very related and share a lot in common.
 
 #### Domain Generalization
 Learning to Generalize: Meta-Learning for Domain Generalization
@@ -75,6 +75,7 @@ PCL: Proxy-Based Contrastive Learning for Domain Generalization
 Compound Domain Generalization Via Meta-Knowledge Encoding
 Domain Generalization By Mutual-Information Regularization With Pre-Trained Models
 Dna: Domain Generalization With Diversified Neural Averaging
+Domain Generalization without Excess Empirical Risk
 
 Towards Unsupervised Domain Generalization
 Unsupervised Domain Generalization By Learning a Bridge Across Domains
