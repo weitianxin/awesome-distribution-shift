@@ -113,7 +113,6 @@ Gradient Matching for Domain Generalization
 
 PCL: Proxy-Based Contrastive Learning for Domain Generalization
 
-Compound Domain Generalization Via Meta-Knowledge Encoding
 
 Domain Generalization By Mutual-Information Regularization With Pre-Trained Models
 
@@ -121,6 +120,12 @@ Dna: Domain Generalization With Diversified Neural Averaging
 
 Domain Generalization Without Excess Empirical Risk
 
+##### w/o domain label
+Compound Domain Generalization Via Meta-Knowledge Encoding
+
+
+
+##### unsupervised
 Towards Unsupervised Domain Generalization
 
 Unsupervised Domain Generalization By Learning a Bridge Across Domains
