@@ -27,7 +27,7 @@ Continuously updated
     - [Video](#video)
     - [Speech](#speech)
     - [Tabular Data](#tabular-data)
-    - [Others](#others)
+    - [Others (RecSys)](#Others-(RecSys))
   - [Decentralized (Federated)](#decentralized-federated)
   - [Detection](#detection)
   - [Fairness](#fairness)
@@ -236,7 +236,7 @@ Many applications in different NLP tasks.
 - [NeurIPS 2022] **Distribution-Informed Neural Networks for Domain Adaptation Regression** [[paper]](https://openreview.net/pdf?id=8hoDLRLtl9h)
 - [NeurIPS 2022] **C-Mixup: Improving Generalization in Regression** [[paper]](https://arxiv.org/pdf/2210.05775)
 
-### Others
+### Others (RecSys)
 - [KDD 2021] **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System** [[paper]](https://arxiv.org/pdf/2010.15363)
 - [SIGIR 2021] **Causal Intervention for Leveraging Popularity Bias in Recommendation** [[paper]](https://arxiv.org/pdf/2105.06067)
 - [SIGIR 2021] **Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue** [[paper]](https://arxiv.org/pdf/2009.09945)
