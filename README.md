@@ -10,6 +10,28 @@ I categorize the papers on distribution shift as follows. If you found any error
 
 Continuously updated
 
+## Contents
+- [awesome-distribution-shift  ](#awesome-distribution-shift--)
+  - [Contents](#contents)
+  - [Benchmark](#benchmark)
+  - [Generalization](#generalization)
+    - [Domain Generalization \& Out-of-distribution Robustness](#domain-generalization--out-of-distribution-robustness)
+      - [Out-of-distribution Robustness](#out-of-distribution-robustness)
+      - [Domain Generalization](#domain-generalization)
+    - [Domain Adaptation](#domain-adaptation)
+    - [Test-time Adaptation/Training](#test-time-adaptationtraining)
+  - [Modality](#modality)
+    - [Graph](#graph)
+    - [Text](#text)
+    - [Time Series](#time-series)
+    - [Video](#video)
+    - [Speech](#speech)
+    - [Tabular Data](#tabular-data)
+  - [Decentralized (Federated)](#decentralized-federated)
+  - [Detection](#detection)
+  - [Fairness](#fairness)
+  - [Robustness](#robustness)
+  - [Learning Strategy](#learning-strategy)
 
 ## Benchmark
 
@@ -136,7 +158,6 @@ In the scenario of test-time adaptation, the model is pre-trained on the source 
 - [NeurIPS 2022] **Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts** [[paper]](https://arxiv.org/pdf/2210.03885)
 
 Also known as source-free domain adaptation
-
 - [CVPR 2020] **Universal Source-Free Domain Adaptation** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.pdf)
 - [CVPR 2020] **Model adaptation: Unsupervised domain adaptation without source data** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf)
 - [ICCV 2021] **Generalized Source-Free Domain Adaptation** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Generalized_Source-Free_Domain_Adaptation_ICCV_2021_paper.pdf)
@@ -145,13 +166,23 @@ Also known as source-free domain adaptation
 - [ICML 2022] **Balancing Discriminability and Transferability for Source-Free Domain Adaptation** [[paper]](https://arxiv.org/abs/2206.08009?context=cs.LG)
 - [NeurIPS 2022] **Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation** [[paper]](https://openreview.net/forum?id=ZlCpRiZN7n)
 - [NeurIPS 2022] **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning** [[paper]](https://openreview.net/forum?id=NjImFaBEHl)
-
-
 ## Modality
 
 Above papers study the distribution shift on images. There are also many applications to other data modalities.
 
 ### Graph
+- [ICLR 2022] **Handling Distribution Shifts on Graphs: An Invariance Perspective** [[paper]](https://arxiv.org/pdf/2202.02466)
+- [ICLR 2022] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2201.12872)
+- [ICML 2022] **Interpretable and Generalizable Graph Learning Via Stochastic Attention Mechanism** [[paper]](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
+- [KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539366?casa_token=zKvdUqGb124AAAAA:Rg8bhY1lJeqahX1PHEVUs7UbtWDjuihnvfbEfOvTgBt6MO1rAF5y3L7sCj0CbJTMN8dLvGFkFzWPK_w)
+- [NeurIPS 2022] **Dynamic Graph Neural Networks Under Spatio-temporal Distribution Shift** [[paper]](https://openreview.net/pdf?id=1tIUqrUuJxx)
+- [NeurIPS 2022] **Learning Substructure Invariance for Out-of-Distribution Molecular Representations** [[paper]](https://openreview.net/pdf?id=2nWUNTnFijm)
+- [NeurIPS 2022] **Learning Invariant Graph Representations for Out-of-Distribution Generalization** [[paper]](https://openreview.net/pdf?id=acKK8MQe2xc)
+- [NeurIPS 2022] **Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs** [[paper]](https://openreview.net/pdf?id=A6AFK_JwrIW)
+
+Test-time adaptation
+- [arxiv 2022] **Test-Time Training for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2210.08813)
+- [arxiv 2022] **Empowering Graph Representation Learning with Test-time Graph Transformation** [[paper]](https://arxiv.org/pdf/2210.03561)
 
 ### Text
 
@@ -164,11 +195,10 @@ Above papers study the distribution shift on images. There are also many applica
 ### Tabular Data
 
 ## Decentralized (Federated)
+Besides generalization of centralized learning, transferability of decentralized setting (Federated Learning) has also received attention.
 
-Besides generalization of centralized learning, transferability of decentralized setting (Federated Learning) is also studied.
 
 ## Detection
-
 Besides generalization, detection, fairness and robustness are also studied.
 
 ## Fairness
