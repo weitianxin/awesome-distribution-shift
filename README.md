@@ -215,7 +215,7 @@ Many applications in different NLP tasks.
 
 ### Video
 - [ICCV 2019] **Temporal Attentive Alignment for Large-scale Video Domain Adaptation** [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf)
-- [ECCV 2020] **Shuffle and Attend: Video Domain Adaptation** [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570664.pdf)
+- [ECCV 2020] **Shuffle and Attend: Video Domain Adaptation** [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570664.pdf)
 - [ICCV 2021] **Learning Cross-modal Contrastive Features for Video Domain Adaptation** [[paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_Cross-Modal_Contrastive_Features_for_Video_Domain_Adaptation_ICCV_2021_paper.pdf)
 - [NeurIPS 2021] **Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing** [[paper]](https://proceedings.neurips.cc/paper/2021/file/c47e93742387750baba2e238558fa12d-Paper.pdf)
 - [ECCV 2022] **Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition** [[paper]](https://openreview.net/pdf?id=Jd2WAZomD8r)
@@ -223,7 +223,7 @@ Many applications in different NLP tasks.
 
 ### Speech
 - [SPL 2014] **Autoencoder-based Unsupervised Domain Adaptation for Speech Emotion Recognition** [[paper]](https://ieeexplore.ieee.org/iel7/97/4358004/06817520.pdf?casa_token=BtB4htXN5ZEAAAAA:NIbwEWYQN1pY2zL8WuLt5YMOPL4P9TJes_LlrOr3QeQgAG_wpdoSj3HYmon80YFQ81L7dAy2BE77)
-- [ICASSP 2015] **Supervised Domain Adaptation for Emotion Recognition from Speech** [[paper](https://ieeexplore.ieee.org/iel7/7158221/7177909/07178934.pdf?casa_token=f2ORpk1V0HUAAAAA:NnEYZ7LUMuyGM4NCT6v1ZqE8_ngQfhrhCyl3Ca9JT5W0OpK-5sdtyofX_Hxf0bgSrBeQLSoFi7Mz)
+- [ICASSP 2015] **Supervised Domain Adaptation for Emotion Recognition from Speech** [[paper]](https://ieeexplore.ieee.org/iel7/7158221/7177909/07178934.pdf?casa_token=f2ORpk1V0HUAAAAA:NnEYZ7LUMuyGM4NCT6v1ZqE8_ngQfhrhCyl3Ca9JT5W0OpK-5sdtyofX_Hxf0bgSrBeQLSoFi7Mz)
 - [NeuroComputing 2017] **An Unsupervised Deep Domain Adaptation Approach for Robust Speech Recognition** [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231217301492?casa_token=UU2tzU41VloAAAAA:F4mnzwMpjSqPZIyeY9Pn-gf1PwbcavrqXorANTc4ROiFmhpnBophRyzKDxvvnS3y3v0O0h-Xnl8g)
 - [ASRU 2019] **Domain Adaptation Via Teacher-student Learning for End-to-end Speech Recognition** [[paper]](https://ieeexplore.ieee.org/iel7/8985378/9003727/09003776.pdf?casa_token=0tOiorcsjfwAAAAA:oHUJVPvDvuamvIhbczSXuc-ioli3SsVldPfv36noXDGnMCRVJNEGiY5lJoorYNvP2DrM9J-TsaWE)
 - [TAC 2021] **Improving Cross-corpus Speech Emotion Recognition with Adversarial Discriminative Domain Generalization (addog)** [[paper]](https://ieeexplore.ieee.org/iel7/5165369/5520654/08713918.pdf?casa_token=MBUOb9dzmJwAAAAA:YX-po4wbOviRVdYCR412Y6UbI4xgx1ff28dIGlb2qgQEDcTdnkZRQYmOZkOBEDAjphLlBUCUcKoE)
@@ -233,7 +233,7 @@ Many applications in different NLP tasks.
 
 ### Tabular Data
 - [NeurIPS 2022] **Distribution-Informed Neural Networks for Domain Adaptation Regression** [[paper]](https://openreview.net/pdf?id=8hoDLRLtl9h)
-- [NeurIPS 2022] **C-Mixup: Improving Generalization in Regression** [[paper](https://arxiv.org/pdf/2210.05775)
+- [NeurIPS 2022] **C-Mixup: Improving Generalization in Regression** [[paper]](https://arxiv.org/pdf/2210.05775)
 
 
 ## Decentralized (Federated)
