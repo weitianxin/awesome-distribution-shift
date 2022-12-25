@@ -95,6 +95,7 @@ There are mainly two types of distribution shift: domain shift (testing on unsee
 - [CVPR 2020] **Learning to Learn Single Domain Generalization** [[paper]](https://arxiv.org/pdf/2003.13216)
 - [JMLR 2021] **Domain Generalization By Marginal Transfer Learning** [[paper]](https://www.jmlr.org/papers/volume22/17-679/17-679.pdf)
 - [NeurIPS 2021] **Swad: Domain Generalization By Seeking Flat Minima** [[paper]](https://proceedings.neurips.cc/paper/2021/file/bcb41ccdc4363c6848a1d760f26c28a0-Paper.pdf)
+- [NeurIPS 2021] **Model-based Domain Generalization** [[paper]](https://proceedings.neurips.cc/paper/2021/file/a8f12d9486cbcc2fe0cfc5352011ad35-Paper.pdf)
 - [ICCV 2021] **Selfreg: Self-Supervised Contrastive Regularization for Domain Generalization** [[paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Kim_SelfReg_Self-Supervised_Contrastive_Regularization_for_Domain_Generalization_ICCV_2021_paper.pdf)
 - [ICCV 2021] **A Simple Feature Augmentation for Domain Generalization** [[paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Simple_Feature_Augmentation_for_Domain_Generalization_ICCV_2021_paper.pdf)
 - [ICLR 2022] **Gradient Matching for Domain Generalization** [[paper]](https://arxiv.org/pdf/2104.09937)
@@ -185,24 +186,110 @@ Test-time adaptation
 - [arxiv 2022] **Empowering Graph Representation Learning with Test-time Graph Transformation** [[paper]](https://arxiv.org/pdf/2210.03561)
 
 ### Text
+Many applications in different NLP tasks.
+- [CVPR 2019] **Sequence-to-sequence Domain Adaptation Network for Robust Text Image Recognition** [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
+- [NAACL 2019] **Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation** [[paper]](https://aclanthology.org/N19-1209/)
+- [AAAI 2020] **Multi-source Domain Adaptation for Text Classification Via Distancenet-bandits** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6288/6144)
+- [COLING 2020] **Semi-supervised Domain Adaptation for Dependency Parsing via Improved Contextualized Word Representations** [[paper]](https://aclanthology.org/2020.coling-main.338/)
+- [ACL 2020] **Pretrained Transformers Improve Out-of-distribution Robustness** [[paper]](https://arxiv.org/pdf/2004.06100)
+- [EMNLP 2021] **Contrastive Domain Adaptation for Question Answering Using Limited Text Corpora** [[paper]](https://arxiv.org/pdf/2108.13854)
+- [EMNLP 2021] **Pdaln: Progressive Domain Adaptation over a Pre-trained Model for Low-resource Cross-domain Named Entity Recognition** [[paper]](https://aclanthology.org/2021.emnlp-main.442/)
+- [ACL 2021] **Matching Distributions Between Model and Data: Cross-domain Knowledge Distillation for Unsupervised Domain Adaptation** [[paper]](https://aclanthology.org/2021.acl-long.421/)
+- [ACL 2021] **Bridge-based Active Domain Adaptation for Aspect Term Extraction** [[paper]](https://aclanthology.org/2021.acl-long.27/)
+- [ECCV 2022] **Grounding Visual Representations with Texts for Domain Generalization** [[paper]](https://arxiv.org/pdf/2207.10285)
+- [KAIS 2022] **Knowledge distillation for bert unsupervised domain adaptation** [[paper]](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10115-022-01736-y&casa_token=VgVxkeLR5wcAAAAA:ujMylYAlDW-elyTA6SHGl2L0zl_M32WSZIiwLSSwKfsBnUrJ6aaLJRhLx9U-lD1Wxc_3ty2tZzwsp-fe7jc)
+- [ACL 2022] **Semi-supervised Domain Adaptation for Dependency Parsing with Dynamic Matching Network** [[paper]](https://aclanthology.org/2022.acl-long.74/)
+...
+
 
 ### Time Series
+- [ICLR 2017] **Variational Recurrent Adversarial Deep Domain Adaptation** [[paper]](https://openreview.net/pdf?id=rk9eAFcxg)
+- [KDD 2020] **Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data** [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403228)
+- [AAAI 2021] **Time Series Domain Adaptation Via Sparse Associative Structure Alignment** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)
+- [IJCAI 2021] **Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation** [[paper]](http://palm.seu.edu.cn/hxue/papers/Adversarial%20spectral%20kernel%20matching%20for%20unsupervised%20time%20series%20domain%20adaption.pdf)
+- [CHIL 2021] **An Empirical Framework for Domain Generalization in Clinical Settings** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3450439.3451878)
+- [TNNLS 2022] **Self-Supervised Autoregressive Domain Adaptation for Time Series Data** [[paper]](https://ieeexplore.ieee.org/iel7/5962385/6104215/09804766.pdf?casa_token=RTkDlGkCGEAAAAAA:4Fom6O1eqOMzJziD-1dN1N29GtUmj_BI3OIYAP_sVfrEAMF0bRsbFlVLHjTR_EAmPaYrX5vIC2sj)
+- [MM 2022] **Domain Adaptation for Time-series Classification to Mitigate Covariate Shift** [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548167)
+- [ICRA 2022] **Causal-based Time Series Domain Generalization for Vehicle Intention Prediction** [[paper]](https://ieeexplore.ieee.org/iel7/9811522/9811357/09812188.pdf?casa_token=e2xDhMqO680AAAAA:RuW4P1FXIX69pNB5LGuerK2kjPB4EMvf8eyg13aW5kWcx8-JhsVpo-aRj5UUFShDcfTQpbi0Mpw6)
+- [ICML 2022] **Domain Adaptation for Time Series Forecasting via Attention Sharing** [[paper]](https://proceedings.mlr.press/v162/jin22d/jin22d.pdf)
 
 ### Video
+- [ICCV 2019] **Temporal Attentive Alignment for Large-scale Video Domain Adaptation** [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Temporal_Attentive_Alignment_for_Large-Scale_Video_Domain_Adaptation_ICCV_2019_paper.pdf)
+- [ECCV 2020] **Shuffle and Attend: Video Domain Adaptation** [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570664.pdf)
+- [ICCV 2021] **Learning Cross-modal Contrastive Features for Video Domain Adaptation** [[paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_Cross-Modal_Contrastive_Features_for_Video_Domain_Adaptation_ICCV_2021_paper.pdf)
+- [NeurIPS 2021] **Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing** [[paper]](https://proceedings.neurips.cc/paper/2021/file/c47e93742387750baba2e238558fa12d-Paper.pdf)
+- [ECCV 2022] **Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition** [[paper]](https://openreview.net/pdf?id=Jd2WAZomD8r)
+- [WACV 2022] **Domain Generalization Through Audio-visual Relative Norm Alignment in First Person Action Recognition** [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf)
 
 ### Speech
+- [SPL 2014] **Autoencoder-based Unsupervised Domain Adaptation for Speech Emotion Recognition** [[paper]](https://ieeexplore.ieee.org/iel7/97/4358004/06817520.pdf?casa_token=BtB4htXN5ZEAAAAA:NIbwEWYQN1pY2zL8WuLt5YMOPL4P9TJes_LlrOr3QeQgAG_wpdoSj3HYmon80YFQ81L7dAy2BE77)
+- [ICASSP 2015] **Supervised Domain Adaptation for Emotion Recognition from Speech** [[paper](https://ieeexplore.ieee.org/iel7/7158221/7177909/07178934.pdf?casa_token=f2ORpk1V0HUAAAAA:NnEYZ7LUMuyGM4NCT6v1ZqE8_ngQfhrhCyl3Ca9JT5W0OpK-5sdtyofX_Hxf0bgSrBeQLSoFi7Mz)
+- [NeuroComputing 2017] **An Unsupervised Deep Domain Adaptation Approach for Robust Speech Recognition** [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231217301492?casa_token=UU2tzU41VloAAAAA:F4mnzwMpjSqPZIyeY9Pn-gf1PwbcavrqXorANTc4ROiFmhpnBophRyzKDxvvnS3y3v0O0h-Xnl8g)
+- [ASRU 2019] **Domain Adaptation Via Teacher-student Learning for End-to-end Speech Recognition** [[paper]](https://ieeexplore.ieee.org/iel7/8985378/9003727/09003776.pdf?casa_token=0tOiorcsjfwAAAAA:oHUJVPvDvuamvIhbczSXuc-ioli3SsVldPfv36noXDGnMCRVJNEGiY5lJoorYNvP2DrM9J-TsaWE)
+- [TAC 2021] **Improving Cross-corpus Speech Emotion Recognition with Adversarial Discriminative Domain Generalization (addog)** [[paper]](https://ieeexplore.ieee.org/iel7/5165369/5520654/08713918.pdf?casa_token=MBUOb9dzmJwAAAAA:YX-po4wbOviRVdYCR412Y6UbI4xgx1ff28dIGlb2qgQEDcTdnkZRQYmOZkOBEDAjphLlBUCUcKoE)
+- [SLT 2021] **Domain Generalization with Triplet Network for Cross-corpus Speech Emotion Recognition** [[paper]](https://ieeexplore.ieee.org/iel7/9383468/9383452/09383534.pdf?casa_token=5mLtgBnS4G4AAAAA:GstUzDn2mKQylWq44KNZ7EAaeE-caU8h34jNqukejKThNrVaAgo8ndHgVt3P3HC2uFj51R9dXbfW)
+- [ICASSP 2022] **Large-scale Asr Domain Adaptation Using Self-and Semi-supervised Learning** [[paper]](https://ieeexplore.ieee.org/iel7/9745891/9746004/09746719.pdf?casa_token=aKezGIHnTOsAAAAA:WqAJ11D0UFsPX-hJrZIKpOXUB-rqExnBfT9zeuyZuc8LUx-X4-SRnf3U7FV2yP6EuxLhgvsFp7z0)
+
 
 ### Tabular Data
+- [NeurIPS 2022] **Distribution-Informed Neural Networks for Domain Adaptation Regression** [[paper]](https://openreview.net/pdf?id=8hoDLRLtl9h)
+- [NeurIPS 2022] **C-Mixup: Improving Generalization in Regression** [[paper](https://arxiv.org/pdf/2210.05775)
+
 
 ## Decentralized (Federated)
 Besides generalization of centralized learning, transferability of decentralized setting (Federated Learning) has also received attention.
-
+- [arxiv 2018] **Federated Learning with Non-IID Data** [[paper]](https://arxiv.org/pdf/1806.00582)
+- [ICML 2019] **Agnostic Federated Learning** [[paper]](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf)
+- [MLSys 2020] **Federated Optimization in Heterogeneous Networks** [[paper]](https://arxiv.org/pdf/1812.06127)
+- [ICML 2020] **SCAFFOLD: Stochastic Controlled Averaging for Federated Learning** [[paper]](https://arxiv.org/pdf/1910.06378)
+- [NeurIPS 2020] **Robust Federated Learning: the Case of Affine Distribution Shifts** [[paper]](https://proceedings.neurips.cc/paper/2020/file/f5e536083a438cec5b64a4954abc17f1-Paper.pdf)
+- [ICLR 2021] **Fedbn: Federated Learning on Non-iid Features Via Local Batch Normalization** [[paper](https://arxiv.org/pdf/2102.07623)
+- [SDM 2021] **Fairness-aware Agnostic Federated Learning** [[paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.21)
+- [TPDS 2022] **Flexible Clustered Federated Learning for Client-level Data Distribution Shift** [[paper]](https://ieeexplore.ieee.org/iel7/71/4359390/09647969.pdf?casa_token=ppLa63KqI0kAAAAA:9tkLoz7O69FS2uFwzU80K8PHdMxEk7CPTBg5YRHs6JigACFKJJuNRvupZ1U8-a3GrBom2KMBEQ)
+- [CVPR 2022] **Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf)
+- [CVPR 2022] **Feddc: Federated Learning with Non-iid Data Via Local Drift Decoupling and Correction** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.pdf)
 
 ## Detection
-Besides generalization, detection, fairness and robustness are also studied.
+Besides generalization, other perspectives including detection, fairness robustness, etc. are also studied.
+
+Out-of-distribution detection, outlier detection and anomaly detection.
+- [ICDM 2018] **Adversarially Learned Anomaly Detection** [[paper]](https://ieeexplore.ieee.org/iel7/8591042/8594809/08594897.pdf?casa_token=BpGIhSrJhSsAAAAA:HsmEM6bEK8vWAobZa-XzGhRCzwQV5-y4SsaDQS5er2TxRewJXhS8FltoEJOiujoT3mM4O5DGnQ)
+- [arxiv 2018] **Learning Confidence for Out-of-distribution Detection in Neural Networks** [[paper]](https://arxiv.org/pdf/1802.04865)
+- [NeurIPS 2019] **Likelihood Ratios for Out-of-distribution Detection** [[paper]](https://proceedings.neurips.cc/paper/2019/file/1e79596878b2320cac26dd792a6c51c9-Paper.pdf)
+- [IJCNN 2019] **XGBOD: Improving Supervised Outlier Detection with Unsupervised Representation Learning** [[paper]](https://arxiv.org/pdf/1912.00290)
+- [ICDM 2020] **Copod: Copula-based Outlier Detection** [[paper]](https://ieeexplore.ieee.org/iel7/9338245/9338248/09338429.pdf?casa_token=KJ7C5SHVJnAAAAAA:HSpMqKX4ovkFnSM7E286Ri4XvgkPo_knawVVDRzDuGLLYsoBAsLkaKlZH_AAjlSzzLHO9Q_A8w)
+- [NeurIPS 2020] **Energy-based Out-of-distribution Detection** [[paper]](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)
+- [CVPR 2020] **Learning Memory-guided Normality for Anomaly Detection** [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf)
+- [NeurIPS 2021] **Exploring the Limits of Out-of-distribution Detection** [[paper]](https://proceedings.neurips.cc/paper/2021/file/3941c4358616274ac2436eacf67fae05-Paper.pdf)
+- [NeurIPS 2021] **Automatic Unsupervised Outlier Model Selection** [[paper]](https://proceedings.neurips.cc/paper/2021/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf)
+- [ICCV 2021] **Divide-and-assemble: Learning Block-wise Memory for Unsupervised Anomaly Detection** [[paper]](http://openaccess.thecvf.com/content/ICCV2021/papers/Hou_Divide-and-Assemble_Learning_Block-Wise_Memory_for_Unsupervised_Anomaly_Detection_ICCV_2021_paper.pdf)
+- [CVPR 2021] **Anomaly Detection in Video Via Self-supervised and Multi-task Learning** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.pdf)
+- [AAAI 2022] **On the Impact of Spurious Correlation for Out-of-distribution Detection** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21244/20993)
+- [AAAI 2022] **Lunar: Unifying Local Outlier Detection Methods Via Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388)
+- [ICML 2022] **Poem: Out-of-distribution Detection with Posterior Sampling** [[paper]](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf)
+- [ECCV 2022] **Dice: Leveraging Sparsification for Out-of-distribution Detection** [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840680.pdf)
 
 ## Fairness
+- [FAccT 2021] **Fairness Violations and Mitigation Under Covariate Shift** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3442188.3445865)
+- [AAAI 2021] **Robust Fairness Under Covariate Shift** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17135/16942)
+- [NeurIPS 2022] **Diagnosing Failures of Fairness Transfer Across Distribution Shift in Real-world Medical Settings** [[paper]](https://openreview.net/pdf?id=K-A4tDJ6HHf)
+- [NeurIPS 2022] **Fairness Transferability Subject to Bounded Distribution Shift** [[paper]](https://arxiv.org/pdf/2206.00129)
+- [NeurIPS 2022] **Transferring Fairness under Distribution Shifts via Fair Consistency Regularization** [[paper]](https://arxiv.org/pdf/2206.12796)
+- [arxiv 2022] **How Robust is Your Fairness? Evaluating and Sustaining Fairness under Unseen Distribution Shifts** [[paper]](https://arxiv.org/pdf/2207.01168)
 
 ## Robustness
+- [ICLR 2019] **On the Sensitivity of Adversarial Robustness to Input Data Distributions** [[paper]](https://arxiv.org/pdf/1902.08336)
+- [CVPR 2021] **Adversarial Robustness under Long-Tailed Distribution** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Adversarial_Robustness_Under_Long-Tailed_Distribution_CVPR_2021_paper.pdf)
+- [arxiv 2022] **BOBA: Byzantine-Robust Federated Learning with Label Skewness** [[paper]](https://arxiv.org/pdf/2208.12932)
+- [arxiv 2022] **Generalizability of Adversarial Robustness Under Distribution Shifts** [[paper]](https://arxiv.org/pdf/2209.15042)
+
 
 ## Learning Strategy
+- [ICLR 2020] **Learning to Balance: Bayesian Meta-learning for Imbalanced and Out-of-distribution Tasks** [[paper]](https://arxiv.org/pdf/1902.08336)
+- [NeurIPS 2020] **OOD-MAML: Meta-learning for few-shot out-of-distribution detection and classification** [[paper]](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)
+- [NeurIPS 2020] **Task-robust Model-agnostic Meta-learning** [[paper]](https://proceedings.neurips.cc/paper/2020/file/da8ce53cf0240070ce6c69c48cd588ee-Paper.pdf)
+- [TIP 2021] **Domain Adaptive Ensemble Learning** [[paper]](https://ieeexplore.ieee.org/iel7/83/4358840/09540778.pdf?casa_token=tHapCRZf2aEAAAAA:q2BwltKkK2kZT37g1yjmHTG70IYrcPay4RMq0m7jMWrqFntuMuRnSxYGYYytxXyLIIc9NjiyuQ)
+- [NeurIPS 2021] **Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution** [[paper]](https://proceedings.neurips.cc/paper/2021/file/1e932f24dc0aa4e7a6ac2beec387416d-Paper.pdf)
+- [ICLR 2022] **Deep Ensembling with No Overhead for either Training or Testing: The All-Round B- lessings of Dynamic Sparsity** [[paper]](https://arxiv.org/pdf/2106.14568)
+- [NeurIPS 2022] **Improving Multi-Task Generalization via Regularizing Spurious Correlation** [[paper]](https://arxiv.org/pdf/2205.09797.pdf)
+...
