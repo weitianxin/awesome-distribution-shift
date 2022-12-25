@@ -167,7 +167,7 @@ Also known as source-free domain adaptation
 - [ICML 2022] **Balancing Discriminability and Transferability for Source-Free Domain Adaptation** [[paper]](https://arxiv.org/abs/2206.08009?context=cs.LG)
 - [NeurIPS 2022] **Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation** [[paper]](https://openreview.net/forum?id=ZlCpRiZN7n)
 - [NeurIPS 2022] **Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning** [[paper]](https://openreview.net/forum?id=NjImFaBEHl)
-## Modality
+## Data Modality
 
 Above papers study the distribution shift on images. There are also many applications to other data modalities.
 
@@ -235,6 +235,11 @@ Many applications in different NLP tasks.
 - [NeurIPS 2022] **Distribution-Informed Neural Networks for Domain Adaptation Regression** [[paper]](https://openreview.net/pdf?id=8hoDLRLtl9h)
 - [NeurIPS 2022] **C-Mixup: Improving Generalization in Regression** [[paper]](https://arxiv.org/pdf/2210.05775)
 
+### Others
+- [KDD 2021] **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System** [[paper]](https://arxiv.org/pdf/2010.15363)
+- [SIGIR 2021] **Causal Intervention for Leveraging Popularity Bias in Recommendation** [[paper]](https://arxiv.org/pdf/2105.06067)
+- [SIGIR 2021] **Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue** [[paper]](https://arxiv.org/pdf/2009.09945)
+...
 
 ## Decentralized (Federated)
 Besides generalization of centralized learning, transferability of decentralized setting (Federated Learning) has also received attention.
