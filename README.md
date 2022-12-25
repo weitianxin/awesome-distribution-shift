@@ -27,7 +27,7 @@ Continuously updated
     - [Video](#video)
     - [Speech](#speech)
     - [Tabular Data](#tabular-data)
-    - [Others (RecSys)](#Others (RecSys))
+    - [Others (RecSys)](#others-recsys)
   - [Decentralized (Federated)](#decentralized-federated)
   - [Detection](#detection)
   - [Fairness](#fairness)
