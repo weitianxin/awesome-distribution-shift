@@ -4,11 +4,11 @@ A curated list of papers and resources about the distribution shift in machine l
 
 Here is an example of distribution shift in images across domains from [DomainBed](https://github.com/facebookresearch/DomainBed).
 
-![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/example.png)
+![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/figs/example.png)
 
 I categorize the papers on distribution shift as follows. If you found any error or any missed paper, please don't hesitate to add.
 
-Continuously updated
+To be updated
 
 ## Contents
 - [awesome-distribution-shift  ](#awesome-distribution-shift--)
@@ -57,7 +57,7 @@ Continuously updated
 ### Domain Generalization & Out-of-distribution Robustness
 
 There are mainly two types of distribution shift: domain shift (testing on unseen domains) and subpopulation shift (the domains of testing data are seen but underrepresented in the training data). Below figure from [GOOD](https://github.com/divelab/GOOD) well demonstrates them.
-![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/dis%20shift.png)
+![avatar](https://github.com/weitianxin/awesome-distribution-shift/blob/main/figs/dis%20shift.png)
 **Domain Generalization** mainly studies **domain shift**, while **Out-of-distribution Robustness** studies **both** of them. These two research directions are very related and share a lot in common.
 
 #### Out-of-distribution Robustness
@@ -181,6 +181,7 @@ Above papers study the distribution shift on images. There are also many applica
 - [NeurIPS 2022] **Learning Substructure Invariance for Out-of-Distribution Molecular Representations** [[paper]](https://openreview.net/pdf?id=2nWUNTnFijm)
 - [NeurIPS 2022] **Learning Invariant Graph Representations for Out-of-Distribution Generalization** [[paper]](https://openreview.net/pdf?id=acKK8MQe2xc)
 - [NeurIPS 2022] **Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs** [[paper]](https://openreview.net/pdf?id=A6AFK_JwrIW)
+- [WSDM 2023] **Alleviating Structural Distribution Shift in Graph Anomaly Detection** [[paper]](http://staff.ustc.edu.cn/~hexn/papers/wsdm23-GDN.pdf)
 
 Test-time adaptation
 - [arxiv 2022] **Test-Time Training for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2210.08813)
@@ -238,8 +239,16 @@ Many applications in different NLP tasks.
 
 ### Others (RecSys)
 - [KDD 2021] **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System** [[paper]](https://arxiv.org/pdf/2010.15363)
+- [WWW 2021] **Disentangling User Interest and Conformity for Recommendation with Causal Embedding** [[paper]](https://hexiangnan.github.io/papers/www21-dice.pdf)
 - [SIGIR 2021] **Causal Intervention for Leveraging Popularity Bias in Recommendation** [[paper]](https://arxiv.org/pdf/2105.06067)
 - [SIGIR 2021] **Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue** [[paper]](https://arxiv.org/pdf/2009.09945)
+- [SIGIR 2021] **AutoDebias: Learning to Debias for Recommendation** [[paper]](https://hexiangnan.github.io/papers/sigir21-AutoDebias.pdf)
+- [WWW 2022] **Cross Pairwise Ranking for Unbiased Item Recommendation** [[paper]](https://hexiangnan.github.io/papers/www22-cpr.pdf)
+- [WWW 2022] **Causal Representation Learning for Out-of-Distribution Recommendation** [[paper]](https://hexiangnan.github.io/papers/www22-ood-rec.pdf)
+- [SIGIR 2022] **Interpolative Distillation for Unifying Biased and Debiased Recommendation** [[paper]](https://hexiangnan.github.io/papers/sigir22-InterD.pdf)
+- [TOIS 2022] **Addressing Confounding Feature Issue for Causal Recommendation** [[paper]](https://arxiv.org/pdf/2205.06532.pdf)
+- [TKDE 2023] **Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for Recommendation** [[paper]](https://hexiangnan.github.io/papers/tkde23-TIDE.pdf)
+
 ...
 
 ## Decentralized (Federated)
