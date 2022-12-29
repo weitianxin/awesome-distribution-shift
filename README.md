@@ -173,10 +173,12 @@ Also known as source-free domain adaptation
 Above papers study the distribution shift on images. There are also many applications to other data modalities.
 
 ### Graph
+Adaptation
 - [TKDE 2022] **Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution** [[paper (2019)]](https://arxiv.org/pdf/1909.01541)
 - [IJCAI 2019] **DANE: Domain Adaptive Network Embedding** [[paper]](https://arxiv.org/pdf/1906.00684)
 - [WWW 2020] **Unsupervised Domain Adaptive Graph Convolutional Networks** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380219?casa_token=UVont2gPk00AAAAA:jWxayKpfsmAPqYQspH9R-s_b5wpEcNRoE-ViV6Cwznxo2HiRtVSykmq5RHHXn1_MZYuiVOWTdS_OzS0)
 - [ICLR 2022] **Graph-Relational Domain Adaptation** [[paper]](https://arxiv.org/pdf/2202.03628.pdf)
+Generalization
 - [ICLR 2022] **Handling Distribution Shifts on Graphs: An Invariance Perspective** [[paper]](https://arxiv.org/pdf/2202.02466)
 - [ICLR 2022] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2201.12872)
 - [ICML 2022] **Interpretable and Generalizable Graph Learning Via Stochastic Attention Mechanism** [[paper]](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
