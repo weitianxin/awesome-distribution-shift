@@ -268,6 +268,8 @@ Besides generalization of centralized learning, transferability of decentralized
 - [NeurIPS 2020] **Robust Federated Learning: the Case of Affine Distribution Shifts** [[paper]](https://proceedings.neurips.cc/paper/2020/file/f5e536083a438cec5b64a4954abc17f1-Paper.pdf)
 - [ICLR 2021] **Fedbn: Federated Learning on Non-iid Features Via Local Batch Normalization** [[paper](https://arxiv.org/pdf/2102.07623)
 - [SDM 2021] **Fairness-aware Agnostic Federated Learning** [[paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.21)
+- [CVPR 2021] **FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space** [[paper]](https://arxiv.org/pdf/2103.06030)
+- [NeurIPS 2022] **FedSR: A Simple and Effective Domain Generalization Method for Federated Learning** [[paper]](https://openreview.net/pdf?id=mrt90D00aQX)
 - [TPDS 2022] **Flexible Clustered Federated Learning for Client-level Data Distribution Shift** [[paper]](https://ieeexplore.ieee.org/iel7/71/4359390/09647969.pdf?casa_token=ppLa63KqI0kAAAAA:9tkLoz7O69FS2uFwzU80K8PHdMxEk7CPTBg5YRHs6JigACFKJJuNRvupZ1U8-a3GrBom2KMBEQ)
 - [CVPR 2022] **Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf)
 - [CVPR 2022] **Feddc: Federated Learning with Non-iid Data Via Local Drift Decoupling and Correction** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.pdf)
