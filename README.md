@@ -179,6 +179,7 @@ Adaptation
 - [WWW 2020] **Unsupervised Domain Adaptive Graph Convolutional Networks** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380219?casa_token=UVont2gPk00AAAAA:jWxayKpfsmAPqYQspH9R-s_b5wpEcNRoE-ViV6Cwznxo2HiRtVSykmq5RHHXn1_MZYuiVOWTdS_OzS0)
 - [ICLR 2022] **Graph-Relational Domain Adaptation** [[paper]](https://arxiv.org/pdf/2202.03628.pdf)
 - [AAAI 2023] **Non-IID Transfer Learning on Graphs** [[paper]](https://arxiv.org/pdf/2212.08174.pdf)
+- [ICLR 2023] **Graph Domain Adaptation via Theory-Grounded Spectral Regularization** [[paper]](https://openreview.net/forum?id=OysfLgrk8mk)
 
 Generalization
 - [ICLR 2022] **Handling Distribution Shifts on Graphs: An Invariance Perspective** [[paper]](https://arxiv.org/pdf/2202.02466)
