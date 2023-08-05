@@ -104,6 +104,7 @@ There are mainly two types of distribution shift: domain shift (testing on unsee
 - [ECCV 2022] **Domain Generalization By Mutual-Information Regularization With Pre-Trained Models** [[paper]](https://arxiv.org/pdf/2203.10789)
 - [ICML 2022] **Dna: Domain Generalization With Diversified Neural Averaging** [[paper]](https://proceedings.mlr.press/v162/chu22a/chu22a.pdf)
 - [NeurIPS 2022] **Domain Generalization Without Excess Empirical Risk** [[paper]](https://openreview.net/pdf?id=pluyPFTiTeJ)
+- [ICCV 2023] **PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization** [[paper]](https://arxiv.org/abs/2307.15199)
 
 **W/o domain label**
 
